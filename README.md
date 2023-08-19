@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @qtpie5032020
+- 👋 Hi, I’m @navigator-26
 - 👀 I’m interested in contributing to projects and learn new tools and skills
 - 🌱 I’m currently learning data structure/algo/nodeJs
 - 💞️ I’m looking to collaborate on javascript/nodejs/react/redux
